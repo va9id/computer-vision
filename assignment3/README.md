@@ -13,3 +13,13 @@ Write functions `computeProjectionMatrix` and `decomposeProjectionMatrix` which 
 It should be the case that the computed camera matrix, rotation matrix and translation vector are the same (or very similar) to the original versions that were used to create the projected points.
 
 The resulting output is stored in [`assign3-out`](/assignment3/assign3-out.txt).
+
+## Usage
+1. Run the projection_template python file.
+    ```python
+    python3 projection_template.py
+    ```
+2. View the output in the resulting text file [`assign3-out`](/assignment3/assign3-out.txt).
+    ```bash
+    cat assign3-out.txt
+    ```
